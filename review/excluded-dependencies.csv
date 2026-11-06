@@ -1,0 +1,6 @@
+channel,parent,child,scope
+desktop,CORE,CODEC,experimental
+lab,CORE,LEGACY,optional
+server,APP-SRV,TELEMETRY,optional
+server,CORE,CODEC,experimental
+server,CORE,LEGACY,optional

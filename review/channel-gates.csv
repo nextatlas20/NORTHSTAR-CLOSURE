@@ -1,0 +1,4 @@
+channel,component_count,direct_count,max_observed_risk,blocked_component_count,decision
+desktop,5,2,6,2,BLOCK
+lab,4,2,9,0,PASS
+server,2,1,4,0,PASS

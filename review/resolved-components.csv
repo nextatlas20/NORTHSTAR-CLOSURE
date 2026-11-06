@@ -1,0 +1,12 @@
+channel,component_id,depth,path,license,risk_score,maintained,blockers
+desktop,APP-DESK,0,APP-DESK,MIT,2,YES,
+desktop,CODEC,2,APP-DESK>UI>CODEC,GPL-3.0,6,YES,LICENSE
+desktop,CORE,1,APP-DESK>CORE,MIT,4,YES,
+desktop,LEGACY,2,APP-DESK>CORE>LEGACY,BSD-3-Clause,5,NO,UNMAINTAINED
+desktop,UI,1,APP-DESK>UI,MPL-2.0,3,YES,
+lab,APP-LAB,0,APP-LAB,MIT,1,YES,
+lab,CODEC,2,APP-LAB>CORE>CODEC,GPL-3.0,6,YES,
+lab,CORE,1,APP-LAB>CORE,MIT,4,YES,
+lab,SIM,1,APP-LAB>SIM,GPL-3.0,9,NO,
+server,APP-SRV,0,APP-SRV,Apache-2.0,2,YES,
+server,CORE,1,APP-SRV>CORE,MIT,4,YES,
