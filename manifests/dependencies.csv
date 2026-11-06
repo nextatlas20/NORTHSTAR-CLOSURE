@@ -1,0 +1,13 @@
+parent,child,scope
+APP-DESK,CORE,runtime
+APP-DESK,UI,runtime
+UI,CODEC,optional
+CORE,LEGACY,optional
+APP-SRV,CORE,runtime
+APP-SRV,TELEMETRY,optional
+CORE,CODEC,experimental
+APP-LAB,CORE,runtime
+APP-LAB,SIM,experimental
+SIM,CODEC,runtime
+CODEC,CORE,runtime
+DOCS,CORE,runtime

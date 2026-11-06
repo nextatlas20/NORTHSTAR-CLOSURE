@@ -1,0 +1,4 @@
+channel,root,max_risk,allowed_scopes,allow_unmaintained
+desktop,APP-DESK,7,runtime|optional,NO
+server,APP-SRV,5,runtime,NO
+lab,APP-LAB,9,runtime|experimental,YES

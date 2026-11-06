@@ -1,0 +1,13 @@
+channel,license
+desktop,MIT
+desktop,Apache-2.0
+desktop,BSD-3-Clause
+desktop,MPL-2.0
+server,MIT
+server,Apache-2.0
+server,BSD-3-Clause
+lab,MIT
+lab,Apache-2.0
+lab,BSD-3-Clause
+lab,MPL-2.0
+lab,GPL-3.0

@@ -1,0 +1,11 @@
+component_id,license,risk_score,maintained
+APP-DESK,MIT,2,YES
+APP-SRV,Apache-2.0,2,YES
+APP-LAB,MIT,1,YES
+CORE,MIT,4,YES
+UI,MPL-2.0,3,YES
+CODEC,GPL-3.0,6,YES
+TELEMETRY,Apache-2.0,8,YES
+LEGACY,BSD-3-Clause,5,NO
+SIM,GPL-3.0,9,NO
+DOCS,MIT,1,YES
